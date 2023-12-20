@@ -1,0 +1,30 @@
+/*comentario en CSS*/
+body{
+    background-color:#b2e2f2;
+}
+h2{
+    text-align: left;
+}
+h2{
+    color: #065e68;
+}
+h3{
+    color: darkblue;
+}
+img{
+    height: 100px;
+    border-radius: 80%;
+}
+
+/*selector de tipo clase*/
+.seccion{
+    background-color: #fdcae1;
+}
+
+/*selector de tipo id*/
+#titulo-carrera{
+    color: brown;
+}
+#titulo-contacto{
+    color: brown;
+}
